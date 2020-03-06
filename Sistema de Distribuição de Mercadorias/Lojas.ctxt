@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=longitude\ latitude\ nomeLoja\ dimensao
+comment0.target=Lojas(double,\ double,\ java.lang.String,\ int)
+comment1.params=
+comment1.target=boolean\ estaPreenchido()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=boolean\ checkStateContentor()
+comment3.params=s
+comment3.target=java.lang.String\ validarString(java.lang.String)
+comment4.params=codigoBem
+comment4.target=void\ venderItemFullStock(int)
+comment4.text=\r\n\ \r\n\r\n\ \ \ \ public\ void\ venderItemFullStock(int\ codigoBem)\r\n\ \ \ \ {\r\n\ \ \ \ for(PacksDeBens\ item\ \:\ armazem.getArmazem())\r\n\ \ \ \ {\r\n\ \ \ \ if(item.getCodigoDoProduto()\=\=codigoBem)\r\n\ \ \ \ {\r\n\ \ \ \ armazem.get(item);\r\n\ \ \ \ }\r\n\ \ \ \ else\r\n\ \ \ \ {\r\n\ \ \ \ System.out.println("Codigo\ incorreto\ ou\ sem\ liga\u00E7ao");\r\n\ \ \ \ }\r\n\ \ \ \ }\r\n\ \ \ \ }\r\n
+comment5.params=camiao
+comment5.target=void\ receberCamiao(Camioes)
+comment6.params=codigoBem\ quantidade
+comment6.target=void\ venderItemFullStock(int,\ int)
+comment7.params=bens
+comment7.target=void\ adicionarBensAoArmazem(PacksDeBens)
+comment8.params=camiao
+comment8.target=boolean\ descarregarContentorDosCamioes(Camioes)
+comment9.params=espacoContentor
+comment9.target=void\ retirarPacksDosContentores(int)
+numComments=11

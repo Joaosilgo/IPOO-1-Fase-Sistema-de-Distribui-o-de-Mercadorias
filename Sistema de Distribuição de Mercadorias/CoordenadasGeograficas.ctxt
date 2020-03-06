@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=longitude\ latitude
+comment0.target=CoordenadasGeograficas(double,\ double)
+comment0.text=\r\n\ \r\n\ ficas\r\n
+comment1.params=latitude
+comment1.target=double\ validarLatitude(double)
+comment2.params=longitude
+comment2.target=double\ validarLongitude(double)
+comment3.params=
+comment3.target=double\ getLongitude()
+comment4.params=
+comment4.target=java.lang.String\ coordenadaPolarLatitude()
+comment5.params=
+comment5.target=java.lang.String\ coordenadaPolarLongitude()
+comment5.text=\r\n\ \r\n\ \ \ \ public\ String\ coordenadaPolarLatitudeWhile()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ switch(\ latitude)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ case\ latitude>0.0\:\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ "Norte";\r\n\ \ \ \ \ \ \ \ \ \ \ \ break;\r\n\ \ \ \ \ \ \ \ \ \ \ \ case\ latitude<0.0\:\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ "Sul";\r\n\ \ \ \ \ \ \ \ \ \ \ \ break;\r\n\ \ \ \ \ \ \ \ \ \ \ \ case\ latitude\=0.0\:\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ "";\r\n\ \ \ \ \ \ \ \ \ \ \ \ break;\r\n\ \ \ \ \ \ \ \ \ \ \ \ default\:\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ "";\r\n\ \ \ \ \ \ \ \ \ \ \ \ break;\r\n\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ }\r\n
+comment6.params=
+comment6.target=double\ getLatitude()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

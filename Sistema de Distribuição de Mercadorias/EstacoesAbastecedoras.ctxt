@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=quantidadeContentores\ longitude\ latitude\ dimensao
+comment0.target=EstacoesAbastecedoras(int,\ double,\ double,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ EstacoesAbastecedoras\r\n
+comment1.params=numeroContentor\ camiao
+comment1.target=void\ carregarCamiao(int,\ Camioes)
+comment2.params=indice\ contentor
+comment2.target=void\ receberContentor(int,\ Contentor)
+comment3.params=i
+comment3.target=int\ indexAdust(int)
+comment4.params=numeroArmazem\ contentorNumero
+comment4.target=void\ carregarContentores(int,\ int)
+comment5.params=nome\ contentorNumero\ quantidade
+comment5.target=void\ carregarCamiaoComContentoresNomeProduto(java.lang.String,\ int,\ int)
+comment6.params=s
+comment6.target=java.lang.String\ validarString(java.lang.String)
+comment7.params=i
+comment7.target=int\ validarIndice(int)
+comment8.params=idProduto\ quantidade
+comment8.target=void\ AbstecerArmazemComProduto(int,\ int)
+comment9.params=bens
+comment9.target=void\ adicionarBensAoArmazem(PacksDeBens)
+numComments=10

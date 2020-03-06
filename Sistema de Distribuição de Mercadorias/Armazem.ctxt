@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=dimensao
+comment0.target=Armazem(int)
+comment0.text=\r\n\ Constructor,creates\ a\ new\ store\ with\ a\ certain\ dimension.\r\n
+comment1.params=
+comment1.target=PacksDeBens[]\ getArmazem()
+comment2.params=
+comment2.target=int\ countProducts()
+comment2.text=\r\n\ Method\ to\ count\ the\ number\ of\ products\ in\ the\ store.\r\n\ @return\ a\:\ products\ in\ the\ store.\r\n
+comment3.params=
+comment3.target=int\ getDimensao()
+comment4.params=
+comment4.target=boolean\ isFull()
+comment5.params=bens
+comment5.target=void\ receiveProducts(PacksDeBens)
+comment5.text=\r\n\ Method\ to\ put\ products\ in\ the\ store,\ \r\n
+numComments=6

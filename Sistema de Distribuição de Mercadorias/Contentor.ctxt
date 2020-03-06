@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=idContentor
+comment0.target=Contentor(int)
+comment0.text=\r\n\ \ Create\ a\ contentor\ that\ have\ a\ id,\ \ maxWeight,\ canCarry\ begin\ at\ true\ ,\ spaceOccupy\ at\ 0,\r\n\ \ \r\n
+comment1.params=
+comment1.target=int\ getIdContentor()
+comment1.text=\r\n\ return\ idContentor\ a\ integer\ that\ identify\ the\ container\r\n
+comment2.params=i
+comment2.target=int\ validarInteger(int)
+comment2.text=\r\n\ validate\ an\ Integer\ that\ comes\ by\ argument\ as\ to\ be\ superior\ or\ equal\ to\ 1\r\n\ return\ a\ integer\ i\ or\ 0\ to\ validate\r\n
+comment3.params=
+comment3.target=void\ switchCanCarry()
+comment3.text=\r\n\ switch\ the\ value\ boolean\ in\ attribute\ canCarry\r\n
+comment4.params=
+comment4.target=boolean\ isCanCarry()
+comment4.text=\r\n\ \ \ return\ the\ value\ of\ canCarry\r\n
+comment5.params=bens
+comment5.target=void\ receberBem(PacksDeBens)
+comment5.text=\r\n\ receive\ a\ good\ in\ argument\ ,\ validate\ some\ attributes\ and\ add\ \r\n
+comment6.params=
+comment6.target=void\ descarregarContentorCompleto()
+comment7.params=
+comment7.target=PacksDeBens[]\ getPacks()
+comment8.params=
+comment8.target=int\ countProducts()
+numComments=9
